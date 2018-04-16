@@ -1,4 +1,4 @@
-# Sample Java Project (push test)
+# Sample Java Project (push ssh test)
 
 This is a reference for setting up a new Ant-based Java project. It
 contains most of the little Ant tricks I've learned over the
